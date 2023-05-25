@@ -1,0 +1,5 @@
+Name:
+DOB:
+Age:
+Salary:
+Address:
